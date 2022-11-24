@@ -23,5 +23,3 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjeongwon&langs_count=8)](https://github.com/yunjeongwon/github-readme-stats)
