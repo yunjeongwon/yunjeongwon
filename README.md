@@ -1,6 +1,6 @@
 ### JeongwonYun 👋
 
-<a href="https://gentle-aerosteon-c77.notion.site/bfd78af94c864a09acb380f81da770e8"><img src="https://img.shields.io/badge/portfolio-gray"/></a><a href="https://velog.io/@yunjwon"><img src="https://img.shields.io/badge/blog-green"/></a>
+<a href="https://gentle-aerosteon-c77.notion.site/bfd78af94c864a09acb380f81da770e8"><img src="https://img.shields.io/badge/portfolio-gray"/></a> <a href="https://velog.io/@yunjwon"><img src="https://img.shields.io/badge/blog-green"/></a>
 
 <hr />
 
