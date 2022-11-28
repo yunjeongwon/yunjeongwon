@@ -16,18 +16,13 @@ Projects
 
 |Period|내용|
 |------|---|
-|2022.10~2022.11| (Dog-hoogam)[https://github.com/yunjeongwon/dog-hoogam] |
-|2022.08~2022.10| (Mattro)[https://github.com/yunjeongwon/mattro] |
-|2022.07~2022.08| (Cokkiri)[https://github.com/yunjeongwon/cokkiri] |
+|2022.10~2022.11|(Dog-hoogam)[url1]|
+|2022.08~2022.10|(Mattro)[url2]|
+|2022.07~2022.08|(Cokkiri)[url3]|
 
-
-[link keyword][id]
-
-[id]: URL "Optional Title here"
-
-Link: [Google][googlelink]
-
-[googlelink]: https://google.com "Go google"
+[url1]: https://github.com/yunjeongwon/dog-hoogam
+[url2]: https://github.com/yunjeongwon/mattro
+[url3]: https://github.com/yunjeongwon/cokkiri
 
 
 <hr></hr>
