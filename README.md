@@ -1,8 +1,8 @@
 # JeongwonYun 👋
 
 <div align="center">
-Portfolio ![a](https://gentle-aerosteon-c77.notion.site/bfd78af94c864a09acb380f81da770e8)
-Blog ![a](https://velog.io/@yunjwon)
+[Portfolio](https://gentle-aerosteon-c77.notion.site/bfd78af94c864a09acb380f81da770e8)
+[Blog](https://velog.io/@yunjwon)
 </div>
 ✨Stack
 
