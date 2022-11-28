@@ -5,15 +5,28 @@
 
 [Blog](https://velog.io/@yunjwon)
 
+<hr></hr>
 
 Experiences
 - Samsung SW Academy For Youth 7th ( 2022.01 ~ 2022.12 )
 
+<hr></hr>
+
+Projects
+
+|Period|내용|
+|------|---|
+|2022.10~2022.11|(독후감)[https://github.com/yunjeongwon/dog-hoogam]|
+|2022.08~2022.10|(맛트로)[https://github.com/yunjeongwon/mattro]|
+|2022.07~2022.08|(코끼리)[https://github.com/yunjeongwon/cokkiri]|
+
+
+<hr></hr>
 
 
 ✨Stack
 
-<hr></hr>
+
 
 Front-end
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
