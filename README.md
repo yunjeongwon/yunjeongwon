@@ -21,6 +21,16 @@ Projects
 |2022.07~2022.08| (Cokkiri)[https://github.com/yunjeongwon/cokkiri] |
 
 
+[link keyword][id]
+
+[id]: URL "Optional Title here"
+
+// code
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
+
+
 <hr></hr>
 
 
