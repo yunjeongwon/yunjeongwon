@@ -13,9 +13,9 @@
 
 |period|title|
 |---|---|
-|2022.10~2022.11|[Dog-hoogam]|
-|2022.08~2022.10|[Mattro]|
-|2022.07~2022.08|[Cokkiri]|
+|2022.10~2022.11|[Dog-hoogam](강아지 케어 서비스)|
+|2022.08~2022.10|[Mattro](지하철 주변 맛집 추천 서비스)|
+|2022.07~2022.08|[Cokkiri](개발자를 위한 화상 채팅 서비스)|
 
 [Dog-hoogam]: https://github.com/yunjeongwon/dog-hoogam
 [Mattro]: https://github.com/yunjeongwon/mattro
