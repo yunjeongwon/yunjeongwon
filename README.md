@@ -14,6 +14,8 @@ Experiences
 
 Projects
 
+|period|title|
+|---|---|
 |2022.10~2022.11|[Dog-hoogam]|
 |2022.08~2022.10|[Mattro]|
 |2022.07~2022.08|[Cokkiri]|
