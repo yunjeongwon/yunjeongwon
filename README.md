@@ -4,12 +4,9 @@
 
 [Blog](https://velog.io/@yunjwon)
 
-<hr></hr>
-
 ## Experiences
 - Samsung SW Academy For Youth 7th ( 2022.01 ~ 2022.12 )
 
-<hr></hr>
 
 ## Projects
 
@@ -22,8 +19,6 @@
 [Dog-hoogam]: https://github.com/yunjeongwon/dog-hoogam
 [Mattro]: https://github.com/yunjeongwon/mattro
 [Cokkiri]: https://github.com/yunjeongwon/cokkiri
-
-<hr></hr>
 
 ## Stack
 
