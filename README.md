@@ -4,8 +4,7 @@
 
 <a href="[http://melonicedlatte.com/](https://gentle-aerosteon-c77.notion.site/bfd78af94c864a09acb380f81da770e8)">
     <img src="https://img.shields.io/badge/portfolio-gray"/>
-</a>
-<a href="https://velog.io/@yunjwon">
+</a><a href="https://velog.io/@yunjwon">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
 </a>
 
