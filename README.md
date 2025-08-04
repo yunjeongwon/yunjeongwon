@@ -4,7 +4,7 @@
 
 <hr />
 
-### Experiences / Certificate
+### Experiences / Certificates
 - Samsung SW Academy For Youth 7th ( 2022.01 ~ 2022.12 )
 - SQLD ( 2023.04 )
 - 정보처리기사 ( 2023. 09 )
