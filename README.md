@@ -4,8 +4,10 @@
 
 <hr />
 
-### Experiences
+### Experiences / Certificate
 - Samsung SW Academy For Youth 7th ( 2022.01 ~ 2022.12 )
+- SQLD ( 2023.04 )
+- 정보처리기사 ( 2023. 09 )
 
 <hr />
 
@@ -13,13 +15,7 @@
 
 |period|title|
 |---|---|
-|2022.10~2022.11|[Dog-hoogam] (강아지 관리 서비스)|
-|2022.08~2022.10|[Mattro] (지하철 주변 맛집 추천 서비스)|
-|2022.07~2022.08|[Cokkiri] (개발자를 위한 화상 채팅 서비스)|
-
-[Dog-hoogam]: https://github.com/yunjeongwon/dog-hoogam
-[Mattro]: https://github.com/yunjeongwon/mattro
-[Cokkiri]: https://github.com/yunjeongwon/cokkiri
+|2023.03~2025.08|[한양풍동실험연구소] (내부 시스템 구축)|
 
 <hr />
 
